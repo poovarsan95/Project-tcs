@@ -5,6 +5,9 @@ public interface Client {
 	void emph();
 	void empad();
 	void empak();
+	void company();
+	void details();
+
 	void empname();
 	void empsec();
 
