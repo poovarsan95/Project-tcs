@@ -8,4 +8,7 @@ public interface Client {
 	void company();
 	void details();
 
+	void empname();
+	void empsec();
+
 }
